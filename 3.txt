@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 the third one
+=======
+3cu elave olundu ve deyiwildi
+>>>>>>> master
